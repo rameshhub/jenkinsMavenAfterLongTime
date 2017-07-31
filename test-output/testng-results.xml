@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24678" started-at="2017-07-31T17:32:10Z" finished-at="2017-07-31T17:32:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24678" started-at="2017-07-31T17:32:10Z" finished-at="2017-07-31T17:32:34Z">
+      <class name="GroupRun.Test123.JenkinToast">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:GroupRun.Test123.JenkinToast@457e2f02]" name="beforeMethod" is-config="true" duration-ms="9745" started-at="2017-07-31T23:02:10Z" finished-at="2017-07-31T23:02:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="sink()[pri:0, instance:GroupRun.Test123.JenkinToast@457e2f02]" name="sink" duration-ms="10934" started-at="2017-07-31T23:02:19Z" finished-at="2017-07-31T23:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sink -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:GroupRun.Test123.JenkinToast@457e2f02]" name="afterMethod" is-config="true" duration-ms="3971" started-at="2017-07-31T23:02:30Z" finished-at="2017-07-31T23:02:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- GroupRun.Test123.JenkinToast -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
