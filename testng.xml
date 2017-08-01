@@ -3,7 +3,8 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="GroupRun.Test123.JenkinToast"/>
+       <class name="GroupRun.Test123.JenkinToast"/>
+       <class name="GroupRun.Test123.WindowTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
